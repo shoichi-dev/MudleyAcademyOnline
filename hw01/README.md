@@ -33,7 +33,7 @@ virtualenv --python C:\Users\lenovo\AppData\Local\Programs\Python\Python38-32\py
 ```
 pip install ccxt
 ```
-![installccxt](https://github.com/shoichi-dev/MudleyAcademyOnline/blob/master/install_ccxt.PNG?raw=true
+![installccxt](https://github.com/shoichi-dev/MudleyAcademyOnline/blob/master/install_ccxt.PNG?raw=true)
 
 
 
