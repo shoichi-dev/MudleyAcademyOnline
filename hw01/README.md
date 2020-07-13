@@ -38,4 +38,14 @@ pip install ccxt
 File การบ้าน  : mw_academy_hw01.py
 การทำงานต่างๆ อ่านใน comment code 
 
+Credit : 
+Teerachai Rattanabunditsakul : https://docs.google.com/document/d/1O_vaSjTxoJNyBJuOiV6yoCu9FhdZfITTHNu4nD-hvfA/edit?fbclid=IwAR1_rKk-96BxyRToJO72d_dY__zjtXObyj7HAsEByfB-GVfEFUprzhL4o_Q
+
+Nattapon Soomtha : https://colab.research.google.com/drive/1MqQbhp3Z2_EkbgoCgGMoXLqKQ3os9pKj?usp=sharing
+
+Jiraporn Nualpong (นักเรียนทุน อ่อนนุช)
+https://drive.google.com/file/d/1K6_ORM8DTp11UzsxQTlV7GmT5eyOqww_/view
+
+Sippavit Kittirattanadul (นักเรียนทุน อ่อนนุช)
+https://colab.research.google.com/drive/1-TF4hnjTabMAgDOi80QeIQufWXQlD6UD?usp=sharing#scrollTo=Q5ZgEvate4jW
 
