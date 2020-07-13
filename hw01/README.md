@@ -35,5 +35,7 @@ pip install ccxt
 ```
 ![installccxt](https://github.com/shoichi-dev/MudleyAcademyOnline/blob/master/install_ccxt.PNG?raw=true)
 
+File การบ้าน  : mw_academy_hw01.py
+การทำงานต่างๆ อ่านใน comment code 
 
 
