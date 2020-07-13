@@ -12,8 +12,8 @@ def FTX():
     #    'enableRateLimit' : True } )
 
     exchange = ccxt.exchange = ccxt.ftx({
-        'apiKey' : "FFx0ZtJbHkT1ZSRi5JWjzalkN-OkoRLQQg09zV11",
-        'secret' : "E8HJ_KnV-rSNym9QmBW01hEE2te8IILjhc2EaUXM",
+        'apiKey' : "xxx1",
+        'secret' : "xxxx",
         'enableRateLimit': True})
 		
     r1 = json.dumps(exchange.fetch_ticker('BTC-PERP'))
@@ -59,8 +59,8 @@ def Karken():
     #    'enableRateLimit' : True } )
 
     exchange = ccxt.exchange = ccxt.kraken({
-        'apiKey' : "8xU6fvGpe0KhWLTvIszyyC0lP22HTaKjWuHM/b/KA3wnLTIoffjsj7LQ",
-        'secret' : "xnlXoDA3Bt+154HLs5co5DLNLSIn8QvGkPTl0h98FLu72px1c583Lc4jCRPpZyzgVMHmv3VmJG0pZxVJM8h/og==",
+        'apiKey' : "xx",
+        'secret' : "xxxx",
         'enableRateLimit': True})
 		
     r1 = json.dumps(exchange.fetch_ticker('BTC/USD'))
