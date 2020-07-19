@@ -14,11 +14,7 @@ def getTime():
 
 # config
 symbol = "BTC-PERPETUAL"
-timestampRecordUltil = 1592442000
-maxExposure = 3000
-MIN_TPRANGE = 20
 timeFrame = "1h"
-countBar = 50
 apiKey = "K0dNactS"
 secret = "NGsHWQPlozOrWNbaYUklFZA573iDnpL2haSzd4ODqr0"
 
@@ -92,12 +88,7 @@ df_open_trades = pd.DataFrame(open_trades, columns=[
 print(df_open_trades)
 print('amount=', df_open_trades['amount'].sum())
 total_amt = total_amt+df_open_trades['amount'].sum()
-print("\n=============fetchTrades=============")
-# if exchange.has['fetchTrades']:
-# ensure you have called loadMarkets() or load_markets() method.
-# for symbol in exchange.markets:
-# time.sleep(exchange.rateLimit / 1000)  # time.sleep wants seconds
-# print(symbol, exchange.fetch_trades(symbol))
+
 resistance_price = 20000
 support_price = 0
 
